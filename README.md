@@ -7,7 +7,7 @@
     <link rel="icon" href="#" />
   </head>
   <body>
-    Hello world!
+    <img src="sites/gecko/IMG_1342.jpg" alt="My test image" />
   </body>
 </html>
  
