@@ -7,7 +7,8 @@
     <link rel="icon" href="#" />
   </head>
   <body>
-    <img src="sites/gecko/IMG_1342.jpg" alt="My test image" />
+  <h1>This is heading 1</h1>
+    <img src="sites/gecko/IMG_1342.jpg" alt="logo" />
   </body>
 </html>
  
